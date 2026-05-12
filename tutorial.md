@@ -17,7 +17,12 @@ Pour chaque détection, il retourne :
 - le score de confiance
 - la bounding box
 
-Pour démarrer le Projet veuillez suivre Ces Etapes
+Pour démarrer le Projet y a 2 méthodes soit:
+## Exécution de zen Ml seulement
+```bash 
+pyhton zenml_pipeline.py
+```
+Ou veuillez suivre Ces Etapes
 ## Etape 1
 ## Installation:
 
