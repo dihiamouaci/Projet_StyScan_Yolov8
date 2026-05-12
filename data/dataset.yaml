@@ -1,0 +1,19 @@
+path: C:/Users/dihia/OneDrive/Bureau/stylescan_Projet_Mouaci_Hadjem/data/processed
+
+train: train/images
+val: val/images
+
+names:
+  0: Short Sleeve Top
+  1: Long Sleeve Top
+  2: Short Sleeve Outwear
+  3: Long Sleeve Outwear
+  4: Vest
+  5: Sling
+  6: Shorts
+  7: Trousers
+  8: Skirt
+  9: Short Sleeve Dress
+  10: Long Sleeve Dress
+  11: Vest Dress
+  12: Sling Dress
